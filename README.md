@@ -1,1 +1,1 @@
-# Test
+laravel-test.local
